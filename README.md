@@ -1,2 +1,1 @@
-"# Image-Classification-CNN" 
-"# Image-Classification-CNN" 
+"# CNN-Image-Classification" 
